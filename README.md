@@ -1,0 +1,2 @@
+# HOWTO
+> $ go run .
